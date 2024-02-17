@@ -28,6 +28,11 @@ You can find the project's architecture presentation [here](https://github.com/e
 | 3-player game | [✅](https://github.com/engpap/prova-finale-ing-sw/tree/master/src/main/java/it/polimi/ingsw/triton/launcher/server/model)|
 | 12 character cards | [✅](https://github.com/engpap/prova-finale-ing-sw/tree/master/src/main/java/it/polimi/ingsw/triton/launcher/server/model/cardeffects) |
 
+## Test Coverage
+- Class Coverage: 83%
+- Method Coverage: 59%
+- Line Coverage: 63%
+
 ## Grade
 In Italy, students are graded according to a scale ranging from 0 to 30. A cum laude may be added to the highest grade, as a special distinction.
 Our grade was *30 cum Laude*.
